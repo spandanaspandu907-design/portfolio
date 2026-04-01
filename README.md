@@ -1,16 +1,29 @@
-# My Portfolio 👩‍💻
+# My Portfolio👩‍💻
 
-Hi, I am currently learning Full Stack Development.
+-Hi, I am currently learning Full Stack Development using HTML,CSS and Python.
+- I am building real-world projects to improve my skills.
+ 
+ ---
 
 ## 💡 Skills
-- HTML(Learning)
-- CSS(Learning)
-- Python(Intermediate)
+- HTML – Proficient ✅
+- CSS – Learning ⚡
+- Python – Intermediate 🐍
+
+---
 
 ## 🚀 Projects
-- will be updated soon
+- 🔹 Smart File Analyzer  
+- 🔹 Portfolio Website (In Progress) 
+
+---
 
 ## 🛠 Tools
-- Git
-- GitHub
-- VS Code
+- Git  
+- GitHub  
+- VS Code  
+
+---
+
+## 📫 Contact
+- Email:spandanaspandu907@gmail.com

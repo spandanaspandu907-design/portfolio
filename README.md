@@ -14,7 +14,7 @@ Here you can see my skills,tools I use,and projects I have worked on.
 
 ## 🚀 Projects
 - 🔹 **Smart File Analyzer** - Python tool that organize files,detects duplicates,and identifies large files for efficient storage.
-- [View Project](https://github.com/spandanaspandu907-design/portfolio/tree/main/Smart%20File%20Analyzer)  
+- [View Project](https://github.com/spandanaspandu907-design/portfolio/blob/main/project.py)  
 - 🔹 **Portfolio Website** (In Progress) 
 
 ---

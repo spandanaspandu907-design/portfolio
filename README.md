@@ -1,7 +1,7 @@
 # My Portfolio👩‍💻
 
--Hi, I am currently learning Full Stack Development using HTML,CSS and Python.
-- I am building real-world projects to improve my skills.
+-Hi, I am currently learning **Full Stack Development**.
+Here you can see my skills,tools I use,and projects I have worked on.
  
  ---
 
@@ -13,8 +13,9 @@
 ---
 
 ## 🚀 Projects
-- 🔹 Smart File Analyzer  
-- 🔹 Portfolio Website (In Progress) 
+- 🔹 **Smart File Analyzer** - Python tool that organize files,detects duplicates,and identifies large files for efficient storage.
+- [View Project](https://github.com/spandana B/portfolio/tree/main/Smart%20File%20Analyzer)  
+- 🔹 **Portfolio Website** (In Progress) 
 
 ---
 
